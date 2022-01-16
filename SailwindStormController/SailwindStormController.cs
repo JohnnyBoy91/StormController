@@ -1,9 +1,6 @@
 ﻿using HarmonyLib;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.EventSystems;
 using UnityModManagerNet;
 using System.Reflection;
 using System.IO;
